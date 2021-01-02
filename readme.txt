@@ -1,0 +1,1 @@
+Para iniciar todos los proyectos en la solución, clic derecho TiendaServicios>Common Properties>Startup Project>Multiple startup project>start,start,start
