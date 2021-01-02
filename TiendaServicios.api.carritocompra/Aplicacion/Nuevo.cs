@@ -8,7 +8,8 @@ using TiendaServicios.api.carritocompra.Modelo;
 using TiendaServicios.api.carritocompra.Persistencia;
 
 namespace TiendaServicios.api.carritocompra.Aplicacion
-{
+{   
+    //cambio prueba
     public class Nuevo
     {
         public class Ejecuta: IRequest
