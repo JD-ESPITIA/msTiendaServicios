@@ -9,7 +9,7 @@ using TiendaServicios.api.carritocompra.Persistencia;
 
 namespace TiendaServicios.api.carritocompra.Aplicacion
 {   
-    //cambio prueba
+    //cambio 
     public class Nuevo
     {
         public class Ejecuta: IRequest
