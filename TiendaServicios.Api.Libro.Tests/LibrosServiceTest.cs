@@ -9,9 +9,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using TiendaServicios.Api.Libro.Aplicacion;
-using TiendaServicios.Api.Libro.Modelo;
-using TiendaServicios.Api.Libro.Persistencia;
+using TiendaServicios.api.libro.Aplicacion;
+using TiendaServicios.api.libro.Modelo;
+using TiendaServicios.api.libro.Persistencia;
 using Xunit;
 
 namespace TiendaServicios.Api.Libro.Tests
